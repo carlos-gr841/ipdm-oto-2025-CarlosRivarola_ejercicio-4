@@ -13,13 +13,6 @@ La app presenta una tarjeta de presentación con tu nombre, profesión y datos d
 
 _(Ubicá la imagen en la carpeta `screenshots` del repositorio)_
 
-## 🧱 Estructura
-
-- Imagen de perfil
-- Nombre completo
-- Profesión
-- Línea divisora
-- Información de contacto con íconos (teléfono, email, red social)
 
 ## 📦 Recursos
 
