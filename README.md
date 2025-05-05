@@ -1,17 +1,12 @@
 # ipdm-oto-2025-CarlosRivarola_ejercicio-4
-# Ejercicio 4 - Tarjeta de presentación
+# Ejercicio 4: Tarjeta de Presentación
 
-Esta app muestra una tarjeta de presentación digital utilizando Jetpack Compose.
+Esta app muestra una tarjeta empresarial horizontal con nombre, cargo e información de contacto usando Jetpack Compose.
 
-## 💡 Descripción
-
-La app presenta una tarjeta de presentación con tu nombre, profesión y datos de contacto (teléfono, correo, red social). Toda la interfaz está construida de forma declarativa usando Compose.
-
-## 🖼️ Captura de pantalla
-
-> ![Captura de pantalla](screenshots/tarjeta_presentacion.png)
-
-_(Ubicá la imagen en la carpeta `screenshots` del repositorio)_
+## Datos de la tarjeta
+- Nombre: Carlos Rivarola
+- Cargo: Ingeniero
+- Teléfono: 0982830413
 
 
 ## 📦 Recursos
